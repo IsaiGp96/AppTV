@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.apptv"
-    compileSdk = 34
+    compileSdk = 28
 
     defaultConfig {
         applicationId = "com.example.apptv"
